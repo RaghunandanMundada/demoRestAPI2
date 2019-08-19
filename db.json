@@ -1,0 +1,41 @@
+[
+  {
+	  	"id": 1,
+			"name": "Rakhi",
+		"subjects": [{
+			"subid": 1,
+			"subname": "C",
+			"semister": 1
+		},
+		{
+			"subid": 2,
+			"subname": "java",
+			"semister": 2
+		}
+	],
+	"profile": {
+		"college": "university"
+	}
+},
+
+{
+	
+  	"id": 2,
+			"name": "Rahul",
+		"subjects": [{
+			"subid": 1,
+			"subname": "C",
+			"semister": 1
+		},
+		{
+			"subid": 2,
+			"subname": "Algorithms",
+			"semister": 3
+		}
+	],
+	"profile": {
+		"college": "MIT"
+	}
+}
+]
+	

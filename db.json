@@ -1,7 +1,7 @@
 [
   {
 	  	"id": 1,
-			"name": "Rakhi",
+			"name": "Emma",
 		"subjects": [{
 			"subid": 1,
 			"subname": "C",
@@ -21,7 +21,7 @@
 {
 	
   	"id": 2,
-			"name": "Rahul",
+			"name": "Devin",
 		"subjects": [{
 			"subid": 1,
 			"subname": "C",
